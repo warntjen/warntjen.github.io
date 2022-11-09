@@ -1,4 +1,4 @@
-## Kurzprofil
+## *Kurzprofil*
 
 **Experte für quantitative Datenanalyse (Advanced/Predictive Analytics)**
 - Langjährige Erfahrung mit explorativer Datenanalyse und statistischen Auswertungen (Regressions- und Klassifikationsmodellen)
