@@ -1,7 +1,7 @@
-## Tutorials
+## *Tutorials*
 
-### *Quantitative Datenanalyse und* 
-### *Maschinelles Lernen*
+### Quantitative Datenanalyse und 
+### Maschinelles Lernen in R und Python
 
 ---
 
