@@ -1,6 +1,6 @@
 ## *Tutorials*
 
-### Quantitative Datenanalyse,  Maschinelles Lernen und 
+### Quantitative Datenanalyse,  maschinelles Lernen und 
 ### Customer Analytics in R und Python
 
 ---
