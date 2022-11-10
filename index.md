@@ -6,3 +6,7 @@ Mehr Informationen zu meiner Expertise findet sich in "Über mich". Im Bereich T
 
 Kontakt und weitere Informationen:
 
+[Mein Profil auf LinkedIn](https://www.linkedin.com/in/warntjen/)
+
+[Mein Profil auf XING](https://www.xing.com/profile/Andreas_Warntjen)
+
