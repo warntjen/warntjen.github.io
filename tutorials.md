@@ -35,6 +35,8 @@ Dieses Tutorial ist der zweite Teil der Serie zur explorativen Datenanalyse in P
 
 ### Customer Analytics
 
+[Kündigungsverhalten: Explorative Datenanalyse](tutorials/customer_analytics/churn_analysis_EDA.html)
+
 [Auswertung einer Umfrage zur Kundenzufriedenheit: Faktoranalyse](tutorials/customer_analytics/umfrage_kundenzufriedenheit_faktoranalyse.html)
 
 Kundenzufriedenheit ist ein zentrales Thema für jedes Unternehmen. Häufig werden von Unternehmen Umfragen unter Kunden durchgeführt, um mögliches Verbesserungspotential zu identifizieren. Ein wertvoller erster Schritt kann dabei sein, Muster in der Kundenzufriedenheit zu erkennen. Unterschiedliche Kundengruppen können verschiedene Bereiche ihres Kundenerlebnisses unterschiedlich bewerten. In diesem Beispiel wird eine explorative Faktoranalyse genutzt, um Daten einer Kundenbefragung eines Flughafens auszuwerten. Grundlage ist eine Befragung zu der Zufriedenheit zu einzelnen Punkten, mit Hilfe einer Faktoranalyse werden diese einzelnen Ergebnisse zusammengefasst. Anschließend werden die Ergebnisse für zwei unterschiedlichen Kundengruppen miteinander verglichen.
