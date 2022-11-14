@@ -21,11 +21,11 @@ mlr3 ist eine R-Bibliothek für das maschinelle Lernen. Dieses Tutorial gibt ein
 
 [Text Mining: Grundlagen](tutorials/python_tm_basics.html)
 
-Anhand eines kurzen Beispiels erläutert dieses Tutorial die Grundlagen von Text Mining (Tokenization, Stemming / Lemmatization).
+Anhand eines kurzen Beispiels (Reden amerikanischer Präsidenten) erläutert dieses Tutorial die Grundlagen von Text Mining (Tokenization, Stemming / Lemmatization).
 
 [Explorative Datenanalyse: Datenaufbereitung](tutorials/python_eda_1.html)
 
-Dieses Tutorial ist das erste eine Serie zur explorativen Datenanalyse in Python (Pandas). Erläutert werden Filtern, das Re-Kodieren von Variablen und Diskretisierung (binning). 
+Dieses Tutorial ist das erste eine Serie zur explorativen Datenanalyse in Python (Pandas). Erläutert werden die mehrere gängige Arbeitsschritte bei der explorativen Datenanalyse: das Filtern von Daten, das Re-Kodieren von Variablen und Diskretisierung kontinuierlicher Variablen (binning). 
 
 [Explorative Datenanalyse: Visualisierung und Regression](tutorials/python_eda_2.html)
 
@@ -37,7 +37,7 @@ Dieses Tutorial ist der zweite Teil der Serie zur explorativen Datenanalyse in P
 
 [Auswertung einer Umfrage zur Kundenzufriedenheit: Faktoranalyse](tutorials/customer_analytics/umfrage_kundenzufriedenheit_faktoranalyse.html)
 
-Kundenzufriedenheit ist ein zentrales Thema für jedes Unternehmen. Häufig werden von Unternehmen Umfragen unter Kunden durchgeführt, um mögliches Verbesserungspotential zu identifizieren. Ein wertvoller erster Schritt kann dabei sein, Muster in der Kundenzufriedenheit zu erkennen. Unterschiedliche Kundengruppen können verschiedene Bereiche ihres Kundenerlebnisses unterschiedlich bewerten. In diesem Beispiel wird eine explorative Faktoranalyse genutzt, um Daten einer Kundenbefragung eines Flughafens auszuwerten.
+Kundenzufriedenheit ist ein zentrales Thema für jedes Unternehmen. Häufig werden von Unternehmen Umfragen unter Kunden durchgeführt, um mögliches Verbesserungspotential zu identifizieren. Ein wertvoller erster Schritt kann dabei sein, Muster in der Kundenzufriedenheit zu erkennen. Unterschiedliche Kundengruppen können verschiedene Bereiche ihres Kundenerlebnisses unterschiedlich bewerten. In diesem Beispiel wird eine explorative Faktoranalyse genutzt, um Daten einer Kundenbefragung eines Flughafens auszuwerten. Grundlage ist eine Befragung zu der Zufriedenheit zu einzelnen Punkten, mit Hilfe einer Faktoranalyse werden diese einzelnen Ergebnisse zusammengefasst. Anschließend werden die Ergebnisse für zwei unterschiedlichen Kundengruppen miteinander verglichen.
 
 [Kundensegmentierung: RFM](tutorials/customer_analytics/customer_segmentation_RFM.html)
 
