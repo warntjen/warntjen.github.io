@@ -33,6 +33,14 @@ Dieses Tutorial ist der zweite Teil der Serie zur explorativen Datenanalyse in P
 
 ---
 
+### PySpark
+
+[Datenaufbereitung mit PySpark](https://warntjen.github.io/tutorials/pyspark_datenaufbereitung.html)
+
+Spark ist ein open-source-Framework für verteiltes Rechnen. Man kann Spark unter Anderem über Python oder R aufrufen. In diesem Tutorial werden die wichtigsten Befehle der Datenaufbereitung mit Hilfe von Spark via Python (PySpark) kurz vorgestellt.
+
+---
+
 ### Customer Analytics
 
 [Kündigungsverhalten: Explorative Datenanalyse](tutorials/customer_analytics/churn_analysis_EDA.html)
