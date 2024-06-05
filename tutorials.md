@@ -1,7 +1,7 @@
 ## *Tutorials*
 
 ### Quantitative Datenanalyse,  maschinelles Lernen und 
-### Customer Analytics in R und Python
+### Customer Analytics in R, Python und PySpark
 
 ---
 
