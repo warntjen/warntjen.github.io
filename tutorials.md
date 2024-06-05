@@ -40,6 +40,7 @@ Dieses Tutorial ist der zweite Teil der Serie zur explorativen Datenanalyse in P
 Spark ist ein open-source-Framework für verteiltes Rechnen. Man kann Spark unter Anderem über Python oder R aufrufen. In diesem Tutorial werden die wichtigsten Befehle der Datenaufbereitung mit Hilfe von Spark via Python (PySpark) anhand eines Beispieles vorgestellt.
 
 [PySpark Cheatsheet](https://warntjen.github.io/tutorials/pyspark_cheatsheet.html)
+
 Code-Beispiele mit den wichtigsten Befehlen für explorative Datenanalyse, Datenaufbereitung und Re-Kodierung mit Hilfe der DataFrame-API.
 
 ---
