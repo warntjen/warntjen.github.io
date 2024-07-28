@@ -44,6 +44,12 @@ Spark ist ein open-source-Framework für verteiltes Rechnen. Man kann Spark unte
 Code-Beispiele mit den wichtigsten Befehlen für explorative Datenanalyse, Datenaufbereitung und Re-Kodierung mit Hilfe der DataFrame-API.
 
 ---
+### Maschinelles Lernen
+
+[Explainable AI mit SHAP: Klassifizierung](tutorials/SHAP_Demo_Classification.html)
+Am Beispiel einer Klassifizierung mittels XGB werden die wichtigsten Visualisierungsmöglichkeiten der SHAP-Bibliothek vorgeführt.
+
+---
 
 ### Customer Analytics
 
